@@ -8,7 +8,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 -->
 
-<p><a href="" target="_blank"> Writing on GitHub : Quickstart </a></p>
+<p><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+" target="_blank"> Writing on GitHub : Quickstart </a></p>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
