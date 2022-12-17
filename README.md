@@ -69,3 +69,8 @@ YOUR TABLE
 <pre>
 &lt;!-- TO DO: add more details about me later -->
 </pre>
+
+
+---
+
+$ax^2 + bx + c = 0$
